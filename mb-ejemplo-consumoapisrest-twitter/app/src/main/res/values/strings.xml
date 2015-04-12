@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Consumo API\'s REST</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="label_descargando_tweets">Descargando tweets&#8230;</string>
+    <string name="label_no_se_encontraron_tweets">No se encontraron tweets.</string>
+    <string name="label_tweets_descargados">Tweets descargados exitosamente.</string>
+</resources>
